@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jogarao (joe)
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning more of DevOps
-- 💞️ I’m looking to collaborate on more of a devops
+- 👋 Hi, I’m @jogarao (joe) a Sr Site reliability Engineer
+- 👀 I’m interested in Automating tasks using CICD and cloudmigration
+- 🌱 I’m currently learning more of Mlops Along with new technologies
+- 💞️ I’m looking to collaborate on more of a CI CF and IAC projects
 - 📫 How to reach me jogarao96@gmail.com
 
 <!---
